@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-stream-adventure",
+  "version": "1.0.0",
+  "description": "NodeSchool.io streams workshopper",
+  "main": "01_beep_boop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosRZ/nodejs-stream-adventure.git"
+  },
+  "author": "MarcosRZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosRZ/nodejs-stream-adventure/issues"
+  },
+  "homepage": "https://github.com/MarcosRZ/nodejs-stream-adventure#readme",
+  "dependencies": {
+    "concat-stream": "^1.4.8",
+    "duplexer": "^0.1.1",
+    "duplexer2": "0.0.2",
+    "request": "^2.57.0",
+    "split": "^1.0.0",
+    "stream-combiner": "^0.2.1",
+    "tar": "^2.1.1",
+    "through2": "^0.6.5",
+    "trumpet": "^1.7.1",
+    "websocket-stream": "^1.5.0"
+  }
+}
